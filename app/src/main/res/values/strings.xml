@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Alert</string>
+    <string name="exit">我要離開</string>
+    <string name="fruit">選擇</string>
+</resources>
