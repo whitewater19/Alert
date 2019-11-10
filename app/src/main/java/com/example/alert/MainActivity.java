@@ -33,7 +33,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
 
+//整理很多onclick (button)，整理完，裡面new的可以刪掉改this
 if (v.getId()==button.getId()){
+   //v是變數名稱
     textview.setText("選一個");
 
 }else if (v.getId()==btnexit.getId()){
